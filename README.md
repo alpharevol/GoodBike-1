@@ -1,5 +1,5 @@
 # GoodBike
-// good bike
+// good bike/n
 
 // how to use
 
